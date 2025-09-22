@@ -1,0 +1,12 @@
+AWS Security Audit Report
+
+Security Group | sg-0a93850a8db6fca7d | Allows 0.0.0.0/0 on port 80
+Security Group | sg-0a93850a8db6fca7d | Allows 0.0.0.0/0 on port 22
+Security Group | sg-0cb72cda9e1c634f0 | Allows 0.0.0.0/0 on port 22
+Security Group | sg-0a151ff54f569ebcd | Allows 0.0.0.0/0 on port 22
+Security Group | sg-0eb74fba4f8022686 | Allows 0.0.0.0/0 on port 80
+Security Group | sg-0eb74fba4f8022686 | Allows 0.0.0.0/0 on port 22
+Security Group | sg-0407f332cfcfd577b | Allows 0.0.0.0/0 on port 22
+IAM User | gp | MFA not enabled
+IAM User | my-terraform-user | MFA not enabled
+IAM User | rahule-user | MFA not enabled

@@ -1,0 +1,52 @@
+[
+    {
+        "ResourceType": "Security Group",
+        "Identifier": "sg-0a93850a8db6fca7d",
+        "Issue": "Allows 0.0.0.0/0 on port 80"
+    },
+    {
+        "ResourceType": "Security Group",
+        "Identifier": "sg-0a93850a8db6fca7d",
+        "Issue": "Allows 0.0.0.0/0 on port 22"
+    },
+    {
+        "ResourceType": "Security Group",
+        "Identifier": "sg-0cb72cda9e1c634f0",
+        "Issue": "Allows 0.0.0.0/0 on port 22"
+    },
+    {
+        "ResourceType": "Security Group",
+        "Identifier": "sg-0a151ff54f569ebcd",
+        "Issue": "Allows 0.0.0.0/0 on port 22"
+    },
+    {
+        "ResourceType": "Security Group",
+        "Identifier": "sg-0eb74fba4f8022686",
+        "Issue": "Allows 0.0.0.0/0 on port 80"
+    },
+    {
+        "ResourceType": "Security Group",
+        "Identifier": "sg-0eb74fba4f8022686",
+        "Issue": "Allows 0.0.0.0/0 on port 22"
+    },
+    {
+        "ResourceType": "Security Group",
+        "Identifier": "sg-0407f332cfcfd577b",
+        "Issue": "Allows 0.0.0.0/0 on port 22"
+    },
+    {
+        "ResourceType": "IAM User",
+        "Identifier": "gp",
+        "Issue": "MFA not enabled"
+    },
+    {
+        "ResourceType": "IAM User",
+        "Identifier": "my-terraform-user",
+        "Issue": "MFA not enabled"
+    },
+    {
+        "ResourceType": "IAM User",
+        "Identifier": "rahule-user",
+        "Issue": "MFA not enabled"
+    }
+]
